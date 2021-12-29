@@ -1,17 +1,8 @@
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-&nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-&nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 <h1 align="center">JavaScript Advanced</h1>
 <h6 align="center">Every *almost* Lab and Excercise Homework for the Softuni JavaScript Advanced course. January 2021</h6>
 
-<p align="center">
-    <a href="https://softuni.bg/trainings/3217/js-advanced-january-2021">
-        <img src="advance_javascript.jpg"/>
-    </a>
-</p>
+
 
 - <hr/>
 
