@@ -15,7 +15,7 @@ _В курса "JS Advanced" ще получите задълбочени поз
 
 - [x] [01. Advanced Syntax Functions & Statements](01%20Functions%20and%20Statements)
 - [x] [02. Arrays & Nested Arrays](02%20Arrays%20and%20Nested%20Arrays)
-- [x] [03. Objects and Composition](03+Objects+and+Composition)
+- [x] [03. Objects and Composition](03%20Objects%20and%20Composition)
 
 
 <!-- 
